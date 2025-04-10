@@ -56,6 +56,7 @@ SCHEMAS = {
     'iso19139': 'pygeometa.schemas.iso19139.ISO19139OutputSchema',
     'iso19139-2': 'pygeometa.schemas.iso19139_2.ISO19139_2OutputSchema',
     'iso19139-hnap': 'pygeometa.schemas.iso19139_hnap.ISO19139HNAPOutputSchema',  # noqa
+    'ukgemini': 'pygeometa.schemas.ukgemini.UKGEMINIOutputSchema',
     'oarec-record': 'pygeometa.schemas.ogcapi_records.OGCAPIRecordOutputSchema',  # noqa
     'stac-item': 'pygeometa.schemas.stac.STACItemOutputSchema',
     'dcat': 'pygeometa.schemas.dcat.DCATOutputSchema',
